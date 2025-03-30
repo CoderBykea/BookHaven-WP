@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BookHaven-WP/static/css/main.d221dc40.css",
+    "main.js": "/BookHaven-WP/static/js/main.ced86a72.js",
+    "index.html": "/BookHaven-WP/index.html",
+    "main.d221dc40.css.map": "/BookHaven-WP/static/css/main.d221dc40.css.map",
+    "main.ced86a72.js.map": "/BookHaven-WP/static/js/main.ced86a72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.ced86a72.js"
+  ]
+}
